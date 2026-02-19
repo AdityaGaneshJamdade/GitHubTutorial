@@ -1,6 +1,3 @@
-Passwords/
-# Ignore all Css Files 
-*.css
-
-#Ignore all Js Files
-*.js
+# Ignore CSS and JS files inside password folder
+password/*.css
+password/*.js
