@@ -1,1 +1,6 @@
+Passwords/
+# Ignore all Css Files 
 *.css
+
+#Ignore all Js Files
+*.js
